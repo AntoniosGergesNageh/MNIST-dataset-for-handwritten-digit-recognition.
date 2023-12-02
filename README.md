@@ -1,1 +1,1 @@
-# MNIST-dataset-for-handwritten-digit-recognition.
+# Neural networks for handwritten-digit-recognition
