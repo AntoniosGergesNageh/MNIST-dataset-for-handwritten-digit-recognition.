@@ -1,4 +1,2 @@
 # Neural networks for handwritten-digit-recognition
-In this project, i build a neural network from scratch using PyTorch and train it on
-the MNIST dataset for handwritten digit recognition.
-the model accuracy for recognize the hand written digits is 71.28%
+In this project, I built a neural network from scratch using PyTorch and trained it on the MNIST dataset for handwritten digit recognition. The model accuracy for recognizing handwritten digits is 71.28%.
